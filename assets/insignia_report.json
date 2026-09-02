@@ -1,0 +1,805 @@
+{
+ "scanned": 252,
+ "threshold": 0.02,
+ "flagged": [
+  {
+   "name": "CHIMAERE_head4",
+   "file": "CHIMAERE_head4.png",
+   "score": 0.6,
+   "detail": {
+    "px": 63,
+    "bbox": [
+     67,
+     45,
+     74,
+     60
+    ],
+    "fill": 0.6,
+    "dark_inside": 62,
+    "dark_ratio": 0.954
+   }
+  },
+  {
+   "name": "CHIMAERE_walk",
+   "file": "CHIMAERE_walk.png",
+   "score": 0.5754,
+   "detail": {
+    "px": 145,
+    "bbox": [
+     133,
+     117,
+     145,
+     138
+    ],
+    "fill": 0.575,
+    "dark_inside": 69,
+    "dark_ratio": 0.363
+   }
+  },
+  {
+   "name": "CHIMAERE_idle",
+   "file": "CHIMAERE_idle.png",
+   "score": 0.549,
+   "detail": {
+    "px": 84,
+    "bbox": [
+     165,
+     131,
+     174,
+     148
+    ],
+    "fill": 0.549,
+    "dark_inside": 99,
+    "dark_ratio": 0.943
+   }
+  },
+  {
+   "name": "KNOCHEN_damaged",
+   "file": "KNOCHEN_damaged.png",
+   "score": 0.5352,
+   "detail": {
+    "px": 34,
+    "bbox": [
+     140,
+     198,
+     149,
+     202
+    ],
+    "fill": 0.944,
+    "dark_inside": 14,
+    "dark_ratio": 1.0
+   }
+  },
+  {
+   "name": "CHIMAERE_hit",
+   "file": "CHIMAERE_hit.png",
+   "score": 0.5128,
+   "detail": {
+    "px": 100,
+    "bbox": [
+     74,
+     118,
+     87,
+     133
+    ],
+    "fill": 0.513,
+    "dark_inside": 76,
+    "dark_ratio": 0.531
+   }
+  },
+  {
+   "name": "CHIMAERE_head1",
+   "file": "CHIMAERE_head1.png",
+   "score": 0.5097,
+   "detail": {
+    "px": 58,
+    "bbox": [
+     61,
+     98,
+     71,
+     109
+    ],
+    "fill": 0.527,
+    "dark_inside": 68,
+    "dark_ratio": 0.944
+   }
+  },
+  {
+   "name": "CHIMAERE_damaged",
+   "file": "CHIMAERE_damaged.png",
+   "score": 0.5059,
+   "detail": {
+    "px": 171,
+    "bbox": [
+     149,
+     155,
+     162,
+     181
+    ],
+    "fill": 0.506,
+    "dark_inside": 193,
+    "dark_ratio": 0.731
+   }
+  },
+  {
+   "name": "CHIMAERE_death",
+   "file": "CHIMAERE_death.png",
+   "score": 0.5035,
+   "detail": {
+    "px": 90,
+    "bbox": [
+     116,
+     59,
+     128,
+     72
+    ],
+    "fill": 0.577,
+    "dark_inside": 32,
+    "dark_ratio": 0.291
+   }
+  },
+  {
+   "name": "PENDEL_damaged",
+   "file": "PENDEL_damaged.png",
+   "score": 0.4959,
+   "detail": {
+    "px": 60,
+    "bbox": [
+     90,
+     265,
+     101,
+     276
+    ],
+    "fill": 0.496,
+    "dark_inside": 39,
+    "dark_ratio": 0.481
+   }
+  },
+  {
+   "name": "CHIMAERE_attack",
+   "file": "CHIMAERE_attack.png",
+   "score": 0.494,
+   "detail": {
+    "px": 49,
+    "bbox": [
+     63,
+     111,
+     72,
+     120
+    ],
+    "fill": 0.605,
+    "dark_inside": 32,
+    "dark_ratio": 0.653
+   }
+  },
+  {
+   "name": "CHIMAERE_head2",
+   "file": "CHIMAERE_head2.png",
+   "score": 0.4694,
+   "detail": {
+    "px": 52,
+    "bbox": [
+     5,
+     92,
+     13,
+     104
+    ],
+    "fill": 0.542,
+    "dark_inside": 25,
+    "dark_ratio": 0.417
+   }
+  },
+  {
+   "name": "SCHUETZE_hit",
+   "file": "SCHUETZE_hit.png",
+   "score": 0.4672,
+   "detail": {
+    "px": 58,
+    "bbox": [
+     61,
+     69,
+     71,
+     81
+    ],
+    "fill": 0.483,
+    "dark_inside": 64,
+    "dark_ratio": 0.8
+   }
+  },
+  {
+   "name": "DIREKTOR1_idle",
+   "file": "DIREKTOR1_idle.png",
+   "score": 0.45,
+   "detail": {
+    "px": 81,
+    "bbox": [
+     49,
+     17,
+     64,
+     29
+    ],
+    "fill": 0.45,
+    "dark_inside": 51,
+    "dark_ratio": 0.392
+   }
+  },
+  {
+   "name": "DIREKTOR1_command",
+   "file": "DIREKTOR1_command.png",
+   "score": 0.4444,
+   "detail": {
+    "px": 80,
+    "bbox": [
+     115,
+     57,
+     127,
+     72
+    ],
+    "fill": 0.444,
+    "dark_inside": 45,
+    "dark_ratio": 0.346
+   }
+  },
+  {
+   "name": "OFFIZIER_attack",
+   "file": "OFFIZIER_attack.png",
+   "score": 0.4142,
+   "detail": {
+    "px": 70,
+    "bbox": [
+     138,
+     48,
+     151,
+     61
+    ],
+    "fill": 0.414,
+    "dark_inside": 78,
+    "dark_ratio": 0.645
+   }
+  },
+  {
+   "name": "KNOCHEN_hit",
+   "file": "KNOCHEN_hit.png",
+   "score": 0.4015,
+   "detail": {
+    "px": 157,
+    "bbox": [
+     89,
+     13,
+     112,
+     30
+    ],
+    "fill": 0.402,
+    "dark_inside": 164,
+    "dark_ratio": 0.521
+   }
+  },
+  {
+   "name": "SCHUETZE_alert",
+   "file": "SCHUETZE_alert.png",
+   "score": 0.3894,
+   "detail": {
+    "px": 29,
+    "bbox": [
+     38,
+     59,
+     47,
+     63
+    ],
+    "fill": 0.806,
+    "dark_inside": 8,
+    "dark_ratio": 0.571
+   }
+  },
+  {
+   "name": "CHIMAERE_head3",
+   "file": "CHIMAERE_head3.png",
+   "score": 0.35,
+   "detail": {
+    "px": 147,
+    "bbox": [
+     7,
+     62,
+     22,
+     90
+    ],
+    "fill": 0.35,
+    "dark_inside": 250,
+    "dark_ratio": 0.74
+   }
+  },
+  {
+   "name": "DIREKTOR1_attack",
+   "file": "DIREKTOR1_attack.png",
+   "score": 0.3368,
+   "detail": {
+    "px": 97,
+    "bbox": [
+     123,
+     56,
+     141,
+     72
+    ],
+    "fill": 0.337,
+    "dark_inside": 113,
+    "dark_ratio": 0.504
+   }
+  },
+  {
+   "name": "ZOMBIE",
+   "file": "ZOMBIE.png",
+   "score": 0.3358,
+   "detail": {
+    "px": 133,
+    "bbox": [
+     71,
+     90,
+     86,
+     105
+    ],
+    "fill": 0.591,
+    "dark_inside": 32,
+    "dark_ratio": 0.189
+   }
+  },
+  {
+   "name": "SCHUETZE_aim",
+   "file": "SCHUETZE_aim.png",
+   "score": 0.293,
+   "detail": {
+    "px": 40,
+    "bbox": [
+     142,
+     62,
+     149,
+     75
+    ],
+    "fill": 0.44,
+    "dark_inside": 38,
+    "dark_ratio": 0.691
+   }
+  },
+  {
+   "name": "FLAMM_attack",
+   "file": "FLAMM_attack.png",
+   "score": 0.2611,
+   "detail": {
+    "px": 1379,
+    "bbox": [
+     163,
+     48,
+     233,
+     101
+    ],
+    "fill": 0.372,
+    "dark_inside": 812,
+    "dark_ratio": 0.234
+   }
+  },
+  {
+   "name": "HAWKEB_idle",
+   "file": "HAWKEB_idle.png",
+   "score": 0.2393,
+   "detail": {
+    "px": 35,
+    "bbox": [
+     20,
+     45,
+     24,
+     61
+    ],
+    "fill": 0.547,
+    "dark_inside": 7,
+    "dark_ratio": 0.25
+   }
+  },
+  {
+   "name": "CHIMAERE_head0",
+   "file": "CHIMAERE_head0.png",
+   "score": 0.2305,
+   "detail": {
+    "px": 22,
+    "bbox": [
+     27,
+     80,
+     32,
+     87
+    ],
+    "fill": 0.629,
+    "dark_inside": 11,
+    "dark_ratio": 0.733
+   }
+  },
+  {
+   "name": "OFFIZIER_death",
+   "file": "OFFIZIER_death.png",
+   "score": 0.2124,
+   "detail": {
+    "px": 29,
+    "bbox": [
+     124,
+     31,
+     130,
+     42
+    ],
+    "fill": 0.439,
+    "dark_inside": 23,
+    "dark_ratio": 0.639
+   }
+  },
+  {
+   "name": "HAWKEB_death",
+   "file": "HAWKEB_death.png",
+   "score": 0.2107,
+   "detail": {
+    "px": 34,
+    "bbox": [
+     86,
+     47,
+     94,
+     57
+    ],
+    "fill": 0.425,
+    "dark_inside": 14,
+    "dark_ratio": 0.292
+   }
+  },
+  {
+   "name": "SCHUETZE_attack",
+   "file": "SCHUETZE_attack.png",
+   "score": 0.1921,
+   "detail": {
+    "px": 22,
+    "bbox": [
+     168,
+     20,
+     175,
+     26
+    ],
+    "fill": 0.524,
+    "dark_inside": 8,
+    "dark_ratio": 0.4
+   }
+  },
+  {
+   "name": "REVENANT_lunge",
+   "file": "REVENANT_lunge.png",
+   "score": 0.18,
+   "detail": {
+    "px": 18,
+    "bbox": [
+     117,
+     16,
+     122,
+     22
+    ],
+    "fill": 0.6,
+    "dark_inside": 11,
+    "dark_ratio": 0.917
+   }
+  },
+  {
+   "name": "SCHUETZE_walk",
+   "file": "SCHUETZE_walk.png",
+   "score": 0.1719,
+   "detail": {
+    "px": 19,
+    "bbox": [
+     76,
+     42,
+     81,
+     49
+    ],
+    "fill": 0.543,
+    "dark_inside": 8,
+    "dark_ratio": 0.533
+   }
+  },
+  {
+   "name": "SMITHA_throw",
+   "file": "SMITHA_throw.png",
+   "score": 0.1633,
+   "detail": {
+    "px": 14,
+    "bbox": [
+     146,
+     24,
+     151,
+     28
+    ],
+    "fill": 0.7,
+    "dark_inside": 2,
+    "dark_ratio": 0.333
+   }
+  },
+  {
+   "name": "HAWKEB_walk",
+   "file": "HAWKEB_walk.png",
+   "score": 0.1583,
+   "detail": {
+    "px": 76,
+    "bbox": [
+     14,
+     44,
+     24,
+     62
+    ],
+    "fill": 0.422,
+    "dark_inside": 16,
+    "dark_ratio": 0.125
+   }
+  },
+  {
+   "name": "TRUEMMER_idle",
+   "file": "TRUEMMER_idle.png",
+   "score": 0.1543,
+   "detail": {
+    "px": 18,
+    "bbox": [
+     95,
+     103,
+     100,
+     110
+    ],
+    "fill": 0.514,
+    "dark_inside": 13,
+    "dark_ratio": 0.867
+   }
+  },
+  {
+   "name": "TRUEMMER_walk",
+   "file": "TRUEMMER_walk.png",
+   "score": 0.1376,
+   "detail": {
+    "px": 17,
+    "bbox": [
+     42,
+     115,
+     47,
+     122
+    ],
+    "fill": 0.486,
+    "dark_inside": 10,
+    "dark_ratio": 0.667
+   }
+  },
+  {
+   "name": "HAWKEB_hit",
+   "file": "HAWKEB_hit.png",
+   "score": 0.1337,
+   "detail": {
+    "px": 19,
+    "bbox": [
+     47,
+     22,
+     52,
+     31
+    ],
+    "fill": 0.422,
+    "dark_inside": 10,
+    "dark_ratio": 0.476
+   }
+  },
+  {
+   "name": "KNOCHEN_walk",
+   "file": "KNOCHEN_walk.png",
+   "score": 0.125,
+   "detail": {
+    "px": 15,
+    "bbox": [
+     101,
+     123,
+     106,
+     129
+    ],
+    "fill": 0.5,
+    "dark_inside": 12,
+    "dark_ratio": 1.0
+   }
+  },
+  {
+   "name": "PANZERHUND_idle",
+   "file": "PANZERHUND_idle.png",
+   "score": 0.12,
+   "detail": {
+    "px": 12,
+    "bbox": [
+     57,
+     22,
+     61,
+     27
+    ],
+    "fill": 0.6,
+    "dark_inside": 2,
+    "dark_ratio": 0.333
+   }
+  },
+  {
+   "name": "OFFIZIER_idle",
+   "file": "OFFIZIER_idle.png",
+   "score": 0.115,
+   "detail": {
+    "px": 39,
+    "bbox": [
+     47,
+     38,
+     56,
+     47
+    ],
+    "fill": 0.481,
+    "dark_inside": 6,
+    "dark_ratio": 0.122
+   }
+  },
+  {
+   "name": "FLAMM_idle",
+   "file": "FLAMM_idle.png",
+   "score": 0.08,
+   "detail": {
+    "px": 12,
+    "bbox": [
+     160,
+     93,
+     166,
+     98
+    ],
+    "fill": 0.4,
+    "dark_inside": 9,
+    "dark_ratio": 0.75
+   }
+  },
+  {
+   "name": "SMITHB_walk",
+   "file": "SMITHB_walk.png",
+   "score": 0.067,
+   "detail": {
+    "px": 21,
+    "bbox": [
+     46,
+     51,
+     54,
+     59
+    ],
+    "fill": 0.328,
+    "dark_inside": 7,
+    "dark_ratio": 0.194
+   }
+  },
+  {
+   "name": "SMITHB_idle",
+   "file": "SMITHB_idle.png",
+   "score": 0.0612,
+   "detail": {
+    "px": 21,
+    "bbox": [
+     48,
+     51,
+     53,
+     59
+    ],
+    "fill": 0.525,
+    "dark_inside": 2,
+    "dark_ratio": 0.111
+   }
+  },
+  {
+   "name": "OFFIZIER_walk",
+   "file": "OFFIZIER_walk.png",
+   "score": 0.0572,
+   "detail": {
+    "px": 29,
+    "bbox": [
+     49,
+     39,
+     56,
+     48
+    ],
+    "fill": 0.46,
+    "dark_inside": 3,
+    "dark_ratio": 0.086
+   }
+  },
+  {
+   "name": "HAWKEB_attack",
+   "file": "HAWKEB_attack.png",
+   "score": 0.055,
+   "detail": {
+    "px": 17,
+    "bbox": [
+     42,
+     47,
+     47,
+     54
+    ],
+    "fill": 0.486,
+    "dark_inside": 2,
+    "dark_ratio": 0.133
+   }
+  },
+  {
+   "name": "SMITHB_death",
+   "file": "SMITHB_death.png",
+   "score": 0.0469,
+   "detail": {
+    "px": 13,
+    "bbox": [
+     111,
+     51,
+     117,
+     56
+    ],
+    "fill": 0.433,
+    "dark_inside": 2,
+    "dark_ratio": 0.167
+   }
+  }
+ ],
+ "clear_count_red_armbands_only": 209,
+ "uncovered_by_this_method": [
+  "SCHUETZE_idle (white collar runes, no red)"
+ ],
+ "skipped": [],
+ "self_check_problems": [],
+ "known_false_positives_flagged": [
+  "FLAMM_attack"
+ ],
+ "backdrops_not_scanned": [
+  "bg_ch0",
+  "bg_ch0f",
+  "bg_ch1",
+  "bg_ch1f",
+  "bg_ch2",
+  "bg_ch2f",
+  "bg_ch3",
+  "bg_ch3f",
+  "bg_ch4",
+  "bg_ch4f",
+  "bg_ch5",
+  "bg_ch5f",
+  "bg_ch6",
+  "bg_ch6f",
+  "bg_ch7",
+  "bg_ch7f",
+  "bg_ch8",
+  "bg_ch8f",
+  "bg_ch9",
+  "bg_ch9f",
+  "bg_title",
+  "bg_bossplash",
+  "bg_canal",
+  "bg_b1",
+  "bg_b2",
+  "bg_b3",
+  "bg_b4",
+  "bg_b5",
+  "bg_b6",
+  "bg_b7",
+  "bg_b8",
+  "bg_b9",
+  "bg_b10",
+  "bg_fort_1",
+  "bg_fort_3",
+  "bg_fort_14",
+  "bg_fort_7",
+  "bg_fort_21",
+  "bg_fort_2",
+  "bg_fort_5",
+  "bg_fort_6",
+  "bg_fort_9",
+  "bg_fort_22",
+  "bg_veh_2",
+  "bg_veh_3",
+  "bg_veh_5",
+  "bg_veh_7",
+  "bg_chest_5",
+  "bg_chest_6",
+  "bg_chest_7",
+  "bg_prop_9",
+  "bg_prop_11",
+  "bg_prop_16",
+  "bg_prop_17",
+  "bg_bld_6",
+  "bg_bld_8",
+  "bg_bld_9"
+ ]
+}
