@@ -28,8 +28,7 @@ index.html   the whole game
 
 ## Related
 
-Shares a universe with [World Aflame](https://github.com/dancockrell/world-aflame),
-a card game built from the same setting and the same design lessons.
+Shares its historical setting with the retired World Aflame card game. Both World Aflame game repositories were deleted on 5 September 2026.
 
 ## Licence
 
